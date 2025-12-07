@@ -1,0 +1,5 @@
+console.WriteLine("1. Visa alla böcker");
+console.WriteLine("2. Lägg till en bok");
+console.WriteLine("3. Ta bort en bok");
+console.WriteLine("4. Uppdatera en bok");
+console.WriteLine("5. Avsluta");
